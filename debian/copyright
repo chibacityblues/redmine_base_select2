@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine_base_select2
+Source: https://github.com/jbbarth/redmine_base_select2
+
+Files: *
+Copyright: UNKNOWN
+License: UNKNOWN
